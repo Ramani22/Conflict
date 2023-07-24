@@ -1,6 +1,4 @@
 Hi!!!!!....
-<<<<<<< HEAD
-<<<<<<< HEAD
 Hello Everybody
 Welcome All
 Hello Ramani
@@ -9,9 +7,7 @@ Iam fine
 What are you doing?
 Hello Ramani Shankar
 How?
-
-=======
 Hello
 Whatsapp!!!
 Yes
->>>>>>> 6109949cd8ff28208ebaae6fa8731efec2843530
+What are you doing?
