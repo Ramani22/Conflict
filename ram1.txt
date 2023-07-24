@@ -1,4 +1,8 @@
 Hi!!!!!....
+<<<<<<< HEAD
+=======
+ s2
+>>>>>>> 53d9b719293ae4cecb94d5b2aacc5ffff14f746e
 Hello Ramani
 How are you?
 Iam fine
